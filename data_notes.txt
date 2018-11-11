@@ -1,0 +1,8 @@
+Data Notes
+
+- Data as described in Muller, Reynaud, Chavane, & Destexhe, "The stimulus-evoked population response in visual cortex of awake monkey is a propagating wave," 2014.
+- rows x columns x time_points x trials
+- 110 Hz time sampling
+	- From this, we deduce 600ms trials
+	- From this and the paper methods, we deduce: 100ms delay, 100ms stimulus, 400 ms blank.
+- 56.6um pixel separation
